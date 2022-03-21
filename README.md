@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MKainbacher
+👋 Hi, I’m @MKainbacher
 
 I'm a german software developer.
 My main development field is frontend development (mainly web), but I'm also working with serverless backend solutions (mainly Azure functions).
