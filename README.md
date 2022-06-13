@@ -6,7 +6,7 @@ Also, I'm digging into game development.
 
 Working with:
 - Angular
-- Flutter (currently learning)
+- Flutter
 - .NET (C# in particular)
 - Unity3D
 - Azure
